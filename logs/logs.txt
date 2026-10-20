@@ -1,0 +1,29 @@
+--------- beginning of main
+10-20 12:37:29.146  8764  8764 D MainActivity: onCreate: экран создан
+10-20 12:37:29.164  8764  8764 D MainActivity: onStart
+10-20 12:37:29.166  8764  8764 D MainActivity: onResume
+10-20 12:37:33.804  8764  8764 W MainActivity: Поле ввода пустое, переход не выполнен
+10-20 12:37:44.870  8764  8764 I MainActivity: Нажата кнопка «Очистить»
+10-20 12:37:55.656  8764  8764 I MainActivity: Нажата кнопка «Открыть список», введено имя: Aidos
+10-20 12:37:55.672  8764  8764 D MainActivity: onPause
+10-20 12:37:55.709  8764  8764 D ListActivity: onCreate: получено имя пользователя Aidos
+10-20 12:37:55.711  8764  8764 D ListActivity: onStart
+10-20 12:37:55.712  8764  8764 D ListActivity: onResume
+10-20 12:37:56.331  8764  8764 D MainActivity: onStop
+10-20 12:38:02.115  8764  8764 I ListActivity: Выбран студент: Асанов Айдос, средний балл 92
+10-20 12:38:02.127  8764  8764 D ListActivity: onPause
+10-20 12:38:02.162  8764  8764 D DetailActivity: onCreate: получены данные: Асанов Айдос, средний балл 92
+10-20 12:38:02.175  8764  8764 D DetailActivity: onStart
+10-20 12:38:02.176  8764  8764 D DetailActivity: onResume
+10-20 12:38:02.775  8764  8764 D ListActivity: onStop
+10-20 12:38:08.305  8764  8764 I DetailActivity: Нажата кнопка «Назад»
+10-20 12:38:08.320  8764  8764 D DetailActivity: onPause
+10-20 12:38:08.340  8764  8764 D ListActivity: onStart
+10-20 12:38:08.341  8764  8764 D ListActivity: onResume
+10-20 12:38:08.925  8764  8764 D DetailActivity: onStop
+10-20 12:38:08.925  8764  8764 D DetailActivity: onDestroy
+10-20 12:38:10.356  8764  8764 D ListActivity: onPause
+10-20 12:38:10.361  8764  8764 D MainActivity: onStart
+10-20 12:38:10.362  8764  8764 D MainActivity: onResume
+10-20 12:38:10.924  8764  8764 D ListActivity: onStop
+10-20 12:38:10.925  8764  8764 D ListActivity: onDestroy
